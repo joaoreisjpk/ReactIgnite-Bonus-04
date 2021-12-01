@@ -19,7 +19,7 @@ import { Box, Image, Text, Flex } from "@chakra-ui/react";
 // install Swiper modules
 SwiperCore.use([Pagination,Navigation]);
 
-export default function Swiper() {
+export default function Swiper(): JSX.Element {
   return (
     <Box w="85%" h={600} margin="50px auto">
       <SwiperTag

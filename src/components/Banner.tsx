@@ -1,7 +1,7 @@
 import { Flex, Image, Box, Text } from '@chakra-ui/react';
 import React from 'react';
 
-export default function Banner() {
+export default function Banner(): JSX.Element {
   return (
     <Flex
       flexDir="column"

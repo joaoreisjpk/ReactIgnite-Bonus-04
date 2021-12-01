@@ -1,7 +1,6 @@
 import { Flex, Box, Image } from '@chakra-ui/react';
-import Logo from "../images/Logo.png"
 
-export default function Header() {
+export default function Header(): JSX.Element {
   return (
     <Flex as="header" color="white.50" h={100} align="center" justifyContent="space-around">
       <Box w={200} h={46}>

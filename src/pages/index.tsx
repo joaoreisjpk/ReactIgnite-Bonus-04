@@ -4,7 +4,7 @@ import Header from '../components/Header'
 import Main from '../components/Main'
 import Swiper from '../components/Swiper'
 
-export default function Home() {
+export default function Home(): JSX.Element {
   return (
     <>
       <Header />

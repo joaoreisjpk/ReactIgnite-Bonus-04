@@ -1,7 +1,7 @@
 import { Flex, Box, Image } from '@chakra-ui/react'
 import React from 'react'
 
-export default function Main() {
+export default function Main(): JSX.Element {
   return (
     <Flex width={["85%"]} m="auto" justify="space-between" mt="5rem">
       <Box>
