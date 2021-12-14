@@ -8,7 +8,7 @@
 
 [NextJS] Aplication </br>
   - A biblioteca de CSS [Chakra-UI](https://chakra-ui.com/)
-  - A ferramenta de clicação de Carrosseis [swiperJS](https://swiperjs.com/)
+  - A ferramenta de cricação de Carrosseis [swiperJS](https://swiperjs.com/)
 
 
 # Habilidades desenvolvidas.
